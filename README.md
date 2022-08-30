@@ -26,9 +26,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Bloging on my free time.
 
-- :zap: In my free free time, I read tech articles and play video game mostly league of legends.
+- :zap: In my free free time, I read tech articles and play video game mostly league of legends and csgo.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noa-andersson-9980a319a/)
+- :mailbox:How to reach me: [![Linkedin Badge]](https://www.linkedin.com/in/noa-andersson-9980a319a/)
 
 ---
 
