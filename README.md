@@ -22,9 +22,7 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
-- :telescope: I’m working as a Software Engineer for independet consulting firm.
-
-- :seedling: Bloging on my free time.
+- :telescope: Looking for work!.
 
 - :zap: In my free free time, I read tech articles and play video game mostly league of legends and cs2.
 
